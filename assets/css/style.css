@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+nav  {
+    background-color: #28a745;
+}
+
+#formulario {
+    background-color: #28a745; 
+    padding :0px;
+    margin:0px;
+}
